@@ -1,0 +1,14 @@
+.user {
+  display: flex;
+  justify-content: space-between;
+}
+.user-buttons__success {
+  margin-right: 10px;
+}
+
+@media (max-width: 767.98px) {
+  .user {
+    flex-direction: column;
+    align-items: stretch;
+  }
+}

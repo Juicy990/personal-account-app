@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "James Hetfield"
+    },
+    {
+      "id": 2,
+      "name": "Freddie Mercury"
+    },
+    { "id": 12, "name": "John Deacon" },
+    {
+      "id": 3,
+      "name": "Brian May"
+    },
+    {
+      "id": 4,
+      "name": "Rojer Taylor"
+    },
+    {
+      "id": 5,
+      "name": "Kirk Hammet"
+    },
+    {
+      "id": 6,
+      "name": "Lars Ulrih"
+    },
+    {
+      "id": 7,
+      "name": "Dave Mastein"
+    }
+  ]
+}

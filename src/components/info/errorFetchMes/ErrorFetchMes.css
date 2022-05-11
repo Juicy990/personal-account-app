@@ -1,0 +1,8 @@
+.error-fetch {
+  text-align: center;
+}
+
+.error-fetch span {
+  font-size: 40px;
+  font-weight: bold;
+}

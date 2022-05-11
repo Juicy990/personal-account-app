@@ -1,0 +1,32 @@
+.wrapper {
+  display: flex;
+  padding: 20px;
+}
+
+input {
+  width: 100%;
+  height: 40px;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+
+input:hover {
+  border: 1px solid aqua;
+}
+
+input:focus {
+  outline: none;
+  border-color: aqua;
+}
+
+a {
+  color: aliceblue;
+  text-decoration: none;
+}
+
+@media (max-width: 767.98px) {
+  .wrapper {
+    flex-direction: column;
+    align-items: center;
+  }
+}
